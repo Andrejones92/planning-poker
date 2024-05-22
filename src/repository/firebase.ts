@@ -4,13 +4,12 @@ import 'firebase/firestore';
 import { Game } from '../types/game';
 import { Player } from '../types/player';
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_FB_API_KEY,
-  authDomain: process.env.REACT_APP_FB_AUTH_DOMAIN,
-  projectId: process.env.REACT_APP_FB_PROJECT_ID,
-  storageBucket: process.env.REACT_APP_FB_STORAGE_BUCKET,
-  messagingSenderId: process.env.REACT_APP_FB_MESSAGING_SENDER_ID,
-  appId: process.env.REACT_APP_FB_APP_ID,
-  measurementId: process.env.REACT_APP_FB_MEASUREMENT_ID,
+  apiKey: "AIzaSyAt0Jy2kSz_lpRTdPVWCRE6kHZwQilIXFs",
+  authDomain: "planning-poker-c1985.firebaseapp.com",
+  projectId: "planning-poker-c1985",
+  storageBucket: "planning-poker-c1985.appspot.com",
+  messagingSenderId: "514506447209",
+  appId: "1:514506447209:web:4099da42324ab3c97f45f8"
 };
 
 // Initialize Firebase
