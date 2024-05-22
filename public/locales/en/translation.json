@@ -10,7 +10,7 @@
   },
   "HomePage": {
     "heroSection": {
-      "title": "Free Planning Poker App",
+      "title": "Bug Catcher Phillips Planning Poker",
       "description": "Free / Open source Planning Poker Web App to estimate user stories for your Agile/Scrum teams. Create a session and invite your team members to estimate user stories efficiently.",
       "formNewSession": {
         "newSessionHeader": "Create new session",
